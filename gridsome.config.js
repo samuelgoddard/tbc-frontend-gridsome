@@ -15,6 +15,8 @@ module.exports = {
         apiUrl: 'https://site-api.datocms.com',
         typeName: 'DatoCms'
       }
+    },{
+      use: 'gridsome-plugin-tailwindcss'
     }
   ]
 }
